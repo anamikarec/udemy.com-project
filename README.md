@@ -19,7 +19,7 @@
 
 # Deployed link of the project
 
-> [udemy.com](https://udemy-triage-project.netlify.app/)
+> [udemy.com](https://udemy-masai.netlify.app)
 
 
 # Technology We Used
